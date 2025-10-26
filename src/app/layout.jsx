@@ -1,4 +1,4 @@
-"use client";
+import "./globals.css";
 
 export const metadata = {
   title: "CSVNest Stock Lite — Pro",
